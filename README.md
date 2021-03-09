@@ -1,5 +1,5 @@
 # hello-world
-Hi, my name is Andrii. I made this hello-world repository just for educational purposes using the <a href="https://guides.github.com/activities/hello-world/" title="hello world git guide" target="_blank">guide for beginners</a>. 
+Hi, my name is Andrii. I made this hello-world repository just for educational purposes using the <a href="https://guides.github.com/activities/hello-world/" title="hello world git guide">guide for beginners</a>. 
 
 Also I am testing the html this time.
 
